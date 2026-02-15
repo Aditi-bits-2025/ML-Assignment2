@@ -53,7 +53,7 @@ samples with 30 numerical features for binary tumor classification.
 ## Project Structure
 
 project-folder/ ├── app.py
-├── model_training.py
+├── model\model_training.py
 ├── requirements.txt
 ├── README.md
 └── model\
