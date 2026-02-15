@@ -36,12 +36,14 @@ samples with 30 numerical features for binary tumor classification.
 
   ML Model              Observation
   --------------------- -----------------------------
-  Logistic Regression   Strong baseline performance
-  Decision Tree         Slight overfitting
-  KNN                   High accuracy with scaling
-  Naive Bayes           Fast but slightly lower
-  Random Forest         Stable and accurate
-  XGBoost               Best overall
+  | Model               | Performance Summary                         |
+|--------------------|---------------------------------------------|
+| Logistic Regression | Strong baseline performance                 |
+| Decision Tree       | Slight overfitting                          |
+| KNN                 | High accuracy with scaling                 |
+| Naive Bayes         | Fast but slightly lower performance        |
+| Random Forest       | Stable and accurate                        |
+| XGBoost             | Best overall                               |
 
 ## Streamlit Features
 
