@@ -23,14 +23,14 @@ samples with 30 numerical features for binary tumor classification.
 
 ## Model Performance Comparison
 
-  ML Model              Accuracy   AUC      Precision   Recall   F1 Score   MCC
-  --------------------- ---------- -------- ----------- -------- ---------- ------
-  Logistic Regression   0.979      0.997    0.988       0.977    0.983      0.955
-  Decision Tree         0.944      0.944    0.965       0.943    0.954      0.882
-  KNN                   0.958      0.985    0.966       0.966    0.966      0.910
-  Naive Bayes           0.951      0.994    0.965       0.955    0.960      0.896
-  Random Forest         0.972      0.995    0.967       0.988    0.977      0.940
-  XGBoost               0.965      0.992    0.966       0.977    0.972      0.925
+| ML Model              | Accuracy | AUC  | Precision | Recall | F1 Score | MCC  |
+|----------------------|----------|------|-----------|--------|----------|------|
+| Logistic Regression | 0.979    | 0.997 | 0.988     | 0.977  | 0.983    | 0.955 |
+| Decision Tree       | 0.944    | 0.944 | 0.965     | 0.943  | 0.954    | 0.882 |
+| KNN                 | 0.958    | 0.985 | 0.966     | 0.966  | 0.966    | 0.910 |
+| Naive Bayes         | 0.951    | 0.994 | 0.965     | 0.955  | 0.960    | 0.896 |
+| Random Forest       | 0.972    | 0.995 | 0.967     | 0.988  | 0.977    | 0.940 |
+| XGBoost             | 0.965    | 0.992 | 0.966     | 0.977  | 0.972    | 0.925 |
 
 ## Observations
 
